@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojifa-akhter&label=Profile%20views&color=0e75b6&style=flat" alt="rojifa-akhter" /> </p>  
   
-- 🌱 I’m currently working **Laravel**  
+- 🌱 I’m currently working with **Laravel**  
   
 - 📫 How to reach me **in/rojifa-akhter-545470277**  
   
