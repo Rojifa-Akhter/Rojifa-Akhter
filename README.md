@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mst Rojifa Akhter</h1>
-<h3 align="center">Full-Stack Software Engineer | Laravel Specialist | SaaS Architect</h3>
+<h3 align="center">Full-Stack Software Engineer | Laravel Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rojifa-akhter&label=Profile%20views&color=0e75b6&style=flat" alt="rojifa-akhter" />
@@ -8,9 +8,9 @@
 ---
 
 ### 💫 About Me:
-- 🎓 **BSc (Hons) in Computing** from the **University of Greenwich, UK** (First Class Honours, 71%).
+- 🎓 **BSc (Hons) in Computing** from the **University of Greenwich, UK** (in collaboration with **Daffodil International Academy**), First Class Honours, 71%.
 - 🚀 **2+ Years of Professional Experience** in building scalable backend systems and enterprise-level solutions.
-- 🏢 Currently **Software Engineer at Bhaiya Digital**, leading the development of multi-tenant **SaaS ERP systems**.
+- 🏢 Currently **Software Engineer at Bhaiya Digital(Sister concern of Bhaiya Group)**,.
 - 🛠️ Expert in **PHP & Laravel (7-13)**, with deep expertise in **MySQL & Oracle Database**.
 - 📚 Currently mastering **React.js** and **Next.js** to build high-performance, modern full-stack applications.
 - ⚡ I specialize in **API Integration (Payment & Logistics)**, **Database Optimization**, and **Clean Code Architecture**.
