@@ -41,7 +41,7 @@
 ---
 
 ### 📁 Real-World Impact (Professional Projects):
-- 🏢 **Multi-Tenant SaaS ERP:** Architected a robust ERP system with 5+ dynamic templates and enterprise backend APIs.
+- 🏢 **Multi-Tenant SaaS ERP:** Architected a robust ERP system with dynamic templates and enterprise backend APIs.
 - 🏠 **Bhaiya Housing:** Integrated real-estate management solution with automated billing and property tracking. [Live](https://asset.bhaiyahousing.com/)
 - 🚗 **Authentic Autos BD:** Comprehensive vehicle e-commerce and inventory management system. [Live](https://authenticautos.com.bd/)
 - 🍔 **Salt Bae & Eden Bay:** Corporate full-stack web applications tailored for the hospitality and service industry.
